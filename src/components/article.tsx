@@ -36,7 +36,7 @@ export function Article() {
           </p>
 
           <p className="text-2xl dark:text-black-400 mb-4">
-            To embark on this truth-seeking journey, I've delved into a myriad of sources scientific journals, expert opinions, and official statements from public health organizations. Each source has undergone meticulous scrutiny, considering the author's expertise, the accuracy of the information, the purpose behind their statements, and the overall tone of their discourse.
+            To embark on this truth-seeking journey, I have delved into a myriad of sources scientific journals, expert opinions, and official statements from public health organizations.
             Experts in virology and telecommunications, whose credibility is well-established, unanimously dismiss the 5G-COVID connection. Scientific consensus holds that the virus primarily spreads through respiratory droplets, not radio waves.
           </p>
 
