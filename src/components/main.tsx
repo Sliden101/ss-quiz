@@ -35,13 +35,14 @@ export function Main() {
             </Card>
             <Card>
               <CardHeader>
-                <h3 className="font-semibold text-lg">Title of Article 2</h3>
+                <h3 className="font-semibold text-lg">Moon Landing Was Faked</h3>
                 <Badge className="mt-2" variant="secondary">
                   Topic
                 </Badge>
               </CardHeader>
               <CardContent>
-                <p className="text-gray-600">Summary of Article 2...</p>
+                <p className="text-gray-600">For decades, humanity has marveled at the remarkable achievement of the Apollo missions, particularly the historic moment when Neil Armstrong set foot on the lunar surface in 1969. However, beneath the veneer of this celebrated accomplishment lies a conspiracy that challenges the very foundation of our understanding of space exploration. Here, we unveil the truth behind the alleged hoax of the lunar landings.
+                  </p>
                 <Link className="mt-4" href="/article2">
                   Read More
                 </Link>
